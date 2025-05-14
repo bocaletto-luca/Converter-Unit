@@ -1,0 +1,18 @@
+/* converter.css - Custom styles for Unit Converter */
+
+/* Center the text in the input field */
+#inputValue {
+    text-align: right;
+}
+
+/* Add margin to the bottom of the body */
+body {
+    margin-bottom: 20px;
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 60vh; /* Mantiene il contenitore centrato verticalmente */
+}
